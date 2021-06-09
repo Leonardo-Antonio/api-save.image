@@ -1,4 +1,9 @@
-/**/*.png
+## images 
+*.png
+*.jpeg
+*.jpg
+*.giff
+*.svg
 
 
 ## config
